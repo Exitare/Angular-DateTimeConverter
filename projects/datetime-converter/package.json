@@ -1,0 +1,31 @@
+{
+  "name": "datetime-converter",
+  "version": "0.0.7",
+  "author": "Exitare",
+  "email": "business.exitare@icloud.com",
+  "homepage": "https://avarius.net",
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^6.0.0 || ^6.0.0",
+    "@angular/core": "^6.0.0 || ^6.0.0",
+    "moment": "^2.22.1",
+    "ngx-device-detector": "^1.2.2"
+  },
+  "devDependencies": {
+
+  },
+  "allowSyntheticDefaultImports": true,
+  "keywords": [
+    "time",
+    "datetime",
+    "dates",
+    "converter",
+    "easyuse",
+    "timediff",
+    "time",
+    "angular",
+    "angular6"
+  ],
+  "license": "MIT",
+  "url": "https://avarius.net"
+}
